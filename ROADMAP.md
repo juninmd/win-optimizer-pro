@@ -1,34 +1,19 @@
-# ROADMAP - WinOptimizer Pro
+# 🗺️ ROADMAP.md - Win Optimizer Pro Evolution
 
-## Phase 1: Foundation & Infrastructure (WIP)
-- [ ] Initialize project with Electron and Python (uv).
-- [ ] Implement secure IPC bridge between Frontend and Python backend.
-- [ ] Create basic Dashboard UI.
+## 🏁 Phase 1: Core Foundation ✅
+- [x] Initial scaffolding and repository setup.
+- [x] Basic architecture and structural implementation.
+- [x] Antigravity documentation alignment.
 
-## Phase 2: Core Optimization Features
-- [ ] **Cache Cleaning:**
-    - [ ] System Temporary files.
-    - [ ] Browser caches (Chrome, Firefox, Edge).
-    - [ ] Windows Update cache.
-- [ ] **Startup Management:**
-    - [ ] List current startup entries (Registry & Startup folder).
-    - [ ] Enable/Disable toggle for entries.
+## 🚧 Phase 2: Refinement & Depth (Current)
+- [ ] **Feature Expansion**: Implement core business logic and missing functionalities.
+- [ ] **Testing Suite**: Increase test coverage to at least 80%.
+- [ ] **Optimization**: Improve performance and reduce technical debt.
 
-## Phase 3: Advanced System Tools
-- [ ] **Process Optimization:**
-    - [ ] Identify high-resource processes.
-    - [ ] One-click "Game Mode" optimizer.
-- [ ] **Security Analysis:**
-    - [ ] Integration with process scanning to identify suspicious parent-child relationships.
-    - [ ] Check process signatures.
-- [ ] **Permission Fixer:**
-    - [ ] Recursive permission reset for common "Locked" folders.
+## 🚀 Phase 3: Polish & Scale (Future)
+- [ ] **CI/CD Integration**: Fully automated release pipelines.
+- [ ] **Advanced Features**: Integration with external APIs and AI tools.
+- [ ] **Global Launch**: Prepare for production release and community use.
 
-## Phase 4: UI/UX & Polish
-- [ ] Modern, dark-themed dashboard.
-- [ ] Real-time system resource monitoring.
-- [ ] Task scheduling for automatic cleaning.
-
-## Phase 5: Release & Distribution
-- [ ] Package for Windows (Portable & Installer).
-- [ ] GitHub Actions for CI/CD.
+## 🎯 v1.0 Milestone
+A robust, stable, and Antigravity-compliant project ready for scale.
